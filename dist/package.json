@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Nishant Bhaskar","email":"nishant.bhaskar@atkinsglobal.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardFCB109608B094EAAA36F8A7089B30A55.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"CircleCard","guid":"circleCardFCB109608B094EAAA36F8A7089B30A55","visualClassName":"Visual","version":"1.0.0","description":"CircleCard Visual","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/nishantbhaskar/circlecard.git"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
